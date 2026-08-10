@@ -62,6 +62,10 @@ A aplicação estará disponível em `http://localhost:5000` (ou na porta config
 
 ✅ Projeto finalizado e em uso interno.
 
+## 📄 Licença
+
+Este projeto foi desenvolvido no contexto de trabalho para a **HBR Aviação** e seus direitos pertencem à empresa. Disponibilizado aqui apenas para fins de portfólio/demonstração técnica.
+
 ## 👤 Autor
 
 **Arthur Menegasso**
