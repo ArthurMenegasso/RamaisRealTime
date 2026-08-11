@@ -2,7 +2,7 @@
 
 Sistema interno de consulta de ramais, organizado por departamento, com busca por nome. A lista é atualizada em tempo real via WebSocket, sem necessidade de recarregar a página.
 
-![Preview do sistema](./preview.png)
+
 
 ## ✨ Funcionalidades
 
